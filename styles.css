@@ -202,7 +202,7 @@
 }
 
 .sub_heading_container span:nth-child(2) {
-  color: #ff7e8b;
+  color: #dc3545;
   font-size: 15px;
   cursor: pointer;
   margin-right: 6.8rem;
@@ -464,7 +464,7 @@
 
 .lang_btn:hover {
   background-color: #dc3545;
-  color: #e0e0e0;
+  color: white;
   border: none;
 }
 .navigation_container {
@@ -633,8 +633,8 @@
 
 
 .social_links_container button:hover i {
-    background-color: rgb(237, 58, 75);
-    color: #e0e0e0;
+    background-color: #dc3545;
+    color: white;
   border-radius: 50%;
   
 }
